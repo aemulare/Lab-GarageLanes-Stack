@@ -16,6 +16,7 @@ Example of stack use in simulation of cars arrives/departures in 2-lanes parking
 
 > Your program should define an object from a 'garage' class to represent the 2 lanes and the street. The garage class will contain three stack objects one for each lane and the street. Use the dynamic array implementation of the stack. You'll need methods for manipulating the cars in the lanes, e.g. search for a car in a lane, move a car from a lane to somewhere, and perhaps higher-level methods like arrive and depart and methods to handle your output.
 
+
 ## Format
 
 Console application
