@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Garage_Log_Generator", "Garage_Log_Generator.vcxproj", "{EEFFBD51-52B1-4FA6-9AAD-16A35BD97BA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B0A9B8AA-076C-4717-BF7F-F79530942705}"
+	ProjectSection(SolutionItems) = preProject
+		MyGarage.txt = MyGarage.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEFFBD51-52B1-4FA6-9AAD-16A35BD97BA7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EEFFBD51-52B1-4FA6-9AAD-16A35BD97BA7}.Debug|Win32.Build.0 = Debug|Win32
+		{EEFFBD51-52B1-4FA6-9AAD-16A35BD97BA7}.Release|Win32.ActiveCfg = Release|Win32
+		{EEFFBD51-52B1-4FA6-9AAD-16A35BD97BA7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
