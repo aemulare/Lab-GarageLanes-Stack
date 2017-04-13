@@ -18,7 +18,9 @@ Example of stack use in simulation of cars arrives/departures in 2-lanes parking
 
 Console application
   
-Input file is generated with *Garage_Log_Generator* - (https://github.com/aemulare/Lab-GarageLanes-Stack/tree/master/Garage_Log_Generator)
+## Input file 
+
+*Garage_Log_Generator* - (https://github.com/aemulare/Lab-GarageLanes-Stack/tree/master/Garage_Log_Generator)
 
 ## Screen shots
 
