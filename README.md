@@ -16,7 +16,9 @@ Console application
 
 ## Screen shots
 
-![alt tag](https://raw.githubusercontent.com/aemulare/Lab-Sequence/master/Sequence-screen-shot.png)
+![alt tag](https://raw.githubusercontent.com/aemulare/Lab-GarageLanes-Stack/master/GarageLanes-screen-shot-1.png)
+
+![alt tag](https://raw.githubusercontent.com/aemulare/Lab-GarageLanes-Stack/master/GarageLanes-screen-shot-2.png)
 
 ## Author
 
