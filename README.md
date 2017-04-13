@@ -6,6 +6,8 @@ Example of stack use in simulation of cars arrives/departures in 2-lanes parking
 
 > The Parking Garage contains 2 lanes, each capable of holding up to 10 cars. There is only a single entrance/exit to the garage at one end of the lanes.
 
+> ![alt tag](https://raw.githubusercontent.com/aemulare/Lab-GarageLanes-Stack/master/garage.png)
+
 > If a customer arrives to pick up a car which is not nearest the exit, all cars blocking the cars' path are moved into the other lane. If more cars still must be moved out of the way, they go into the street. When the customer's car is driven out, all cars in the street must be put back into the garage.
 
 >Write a C++ program that reads input from a file (that you create). Each line in the file contains two fields separated by a blank: a code (A = an arriving car, or D = a car wishes to depart) and a license plate number (this could be a string). Cars are assumed to arrive and depart in the order specified by the input. The program should print a message whenever a car arrives or departs.
