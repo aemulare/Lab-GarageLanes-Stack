@@ -24,6 +24,7 @@ Console application
 
 ![alt tag](https://raw.githubusercontent.com/aemulare/Lab-GarageLanes-Stack/master/GarageLanes-screen-shot-2.png)
 
+
 ## Author
 
 * Maria Romanova
