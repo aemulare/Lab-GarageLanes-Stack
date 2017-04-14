@@ -23,7 +23,7 @@ Console application
   
 ## Input file 
 
-[Garage_Log_Generator](https://github.com/aemulare/Lab-GarageLanes-Stack/tree/master/Garage_Log_Generator)
+[Garage Log Generator](https://github.com/aemulare/Lab-GarageLanes-Stack/tree/master/Garage_Log_Generator)
 
 ## Screen shots
 
