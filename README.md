@@ -1,6 +1,6 @@
 # Garage Lanes - Stack
 
-Example of stack use in simulation of cars arrives/departures in 2-lanes parking garage.
+Example of stack use in simulation of cars arrivals/departures in 2-lanes parking garage.
 
 ## Project Assignment
 
@@ -23,7 +23,9 @@ Console application
   
 ## Input file 
 
-[Garage Log Generator](https://github.com/aemulare/Lab-GarageLanes-Stack/tree/master/Garage_Log_Generator)
+* Each line in the file contains status (letter 'A' - arrival, 'D' - departure) ans plate number XXX-XXXX.
+* [Example](https://github.com/aemulare/Lab-GarageLanes-Stack/blob/master/GarageLog.txt)
+* Created with [Garage Log Generator](https://github.com/aemulare/Lab-GarageLanes-Stack/tree/master/Garage_Log_Generator)
 
 ## Screen shots
 
