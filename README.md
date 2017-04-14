@@ -1,6 +1,6 @@
 # Garage Lanes - Stack
 
-Example of stack use in simulation of cars arrivals/departures in 2-lanes parking garage.
+Example use of stack in simulation of cars arrivals/departures in 2-lanes parking garage.
 
 ## Project Assignment
 
